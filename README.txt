@@ -1,3 +1,6 @@
+This site was originally created by @ajlkn. I am grateful to the author for sharing this beautiful design. 
+The author's details are provided below.
+
 Future Imperfect by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
